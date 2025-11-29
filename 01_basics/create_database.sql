@@ -2,7 +2,7 @@
 ==========================================================
  FILE: create_database.sql
  PURPOSE: Learn how to create and manage PostgreSQL databases
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 

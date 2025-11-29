@@ -2,7 +2,7 @@
 ==========================================================
  FILE: create_table.sql
  PURPOSE: Learn how to create tables in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 
