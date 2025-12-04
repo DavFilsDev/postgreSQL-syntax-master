@@ -34,8 +34,7 @@ postgresql-syntax-master/
 │   ├── create_database.sql
 │   ├── create_table.sql
 │   ├── insert_select_update_delete.sql
-│   ├── constraints.sql
-│   └── README.md
+│   └── constraints.sql
 │
 ├── 02_data_types/             # PostgreSQL data types deep dive
 │   ├── numeric_types.sql
