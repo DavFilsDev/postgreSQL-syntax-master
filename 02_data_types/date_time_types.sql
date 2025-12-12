@@ -2,7 +2,7 @@
 ==========================================================
  FILE: date_time_types.sql
  PURPOSE: Learn date and time data types in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBEs
 ==========================================================
 */
 

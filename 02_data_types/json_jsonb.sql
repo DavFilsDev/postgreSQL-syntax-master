@@ -2,7 +2,7 @@
 ==========================================================
  FILE: json_jsonb.sql
  PURPOSE: Learn JSON and JSONB data types in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 
