@@ -2,7 +2,7 @@
 ==========================================================
  FILE: cte_with.sql
  PURPOSE: Learn Common Table Expressions (CTE) with WITH
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 

@@ -2,7 +2,7 @@
 ==========================================================
  FILE: joins.sql
  PURPOSE: Learn JOIN queries in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 

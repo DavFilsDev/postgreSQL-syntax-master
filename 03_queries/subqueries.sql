@@ -2,7 +2,7 @@
 ==========================================================
  FILE: subqueries.sql
  PURPOSE: Learn subqueries in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 

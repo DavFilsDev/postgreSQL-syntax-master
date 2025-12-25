@@ -2,7 +2,7 @@
 ==========================================================
  FILE: window_functions.sql
  PURPOSE: Learn window functions in PostgreSQL
- AUTHOR: David RATIANDRAIBE
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 

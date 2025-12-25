@@ -2,7 +2,7 @@
 ===========================================================
  File: aggregation.sql
  Description: Examples of aggregation queries in SQL
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 
