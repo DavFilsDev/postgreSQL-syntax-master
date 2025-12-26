@@ -2,7 +2,7 @@
 ===========================================================
  File: row_level_security.sql
  Description: Examples of PostgreSQL Row-Level Security (RLS)
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 
