@@ -1,0 +1,5 @@
+id,name,email,password
+1,Alice,alice@shop.com,hash1
+2,Bob,bob@shop.com,hash2
+3,Charlie,charlie@shop.com,hash3
+4,David,david@shop.com,hash4
